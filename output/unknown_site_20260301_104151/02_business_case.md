@@ -1,0 +1,1 @@
+Chyba byznys analýzy

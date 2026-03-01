@@ -1,0 +1,10 @@
+{
+  "name": "Content Writer & Localizer",
+  "description": "Tvorba obsahu, kontrola kvality textů a profesionální překlady do více jazyků.",
+  "parameters": {
+    "topic_or_analysis": "Analýza webu nebo téma obsahu",
+    "target_languages": "Cílové jazyky (např. čeština, angličtina, němčina)",
+    "tone_of_voice": "Tón komunikace (např. profesionální, přátelský, technický)",
+    "seo_keywords": "Klíčová slova k integraci (z SEO reportu)"
+  }
+}

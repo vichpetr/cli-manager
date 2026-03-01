@@ -1,0 +1,9 @@
+{
+  "name": "SEO Structure Analyzer",
+  "description": "Analyzuje strukturu stránky a navrhuje hierarchii nadpisů a meta tagů.",
+  "parameters": {
+    "url_or_description": "URL nebo popis struktury stránky",
+    "keywords": "Hlavní klíčová slova k cílení",
+    "target_audience": "Cílová skupina uživatelů"
+  }
+}

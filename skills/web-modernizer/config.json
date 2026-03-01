@@ -1,0 +1,10 @@
+{
+  "name": "Web Modernizer 2026",
+  "description": "Transformace stávajících funkcí webu do moderního technického a vizuálního návrhu.",
+  "parameters": {
+    "current_features": "Výstup z analýzy nebo popis stávajících funkcí",
+    "business_goals": "Výstup z Business Analysta (cíle a ROI)",
+    "target_style": "Požadovaný vizuální styl",
+    "analytics_requirements": "Specifické požadavky na měření (výchozí: GA4 + Cookie Consent)"
+  }
+}

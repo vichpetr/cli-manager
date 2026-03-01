@@ -1,0 +1,8 @@
+{
+  "name": "Senior Business Analyst",
+  "description": "Průzkum majitele webu a vypracování usecase pro přínos modernizace.",
+  "parameters": {
+    "url": "URL webu k analýze",
+    "market_context": "Doplňující kontext (např. region, obor podnikání)"
+  }
+}

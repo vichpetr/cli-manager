@@ -1,0 +1,9 @@
+{
+  "name": "Web Application Analyzer",
+  "description": "Hloubková analýza webové aplikace: výpis funkcí, popis stránek a uživatelského toku.",
+  "parameters": {
+    "url": "URL webové aplikace k analýze",
+    "analysis_depth": "Hloubka analýzy (např. Single Page, Home + Key Pages, Full Domain)",
+    "focus": "Specifické funkce k popisu (např. e-shop, uživatelský profil, CMS, interaktivní nástroje)"
+  }
+}

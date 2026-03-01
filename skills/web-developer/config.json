@@ -1,0 +1,10 @@
+{
+  "name": "Web Developer (Implementation)",
+  "description": "Implementace moderního webu na základě architektonického návrhu a tech stacku.",
+  "parameters": {
+    "plan": "Výstup z web-modernizer (seznam funkcí a design)",
+    "tech_stack": "Výstup z tech-stack-advisor",
+    "constraints": "Specifická omezení, texty a lokalizace",
+    "output_path": "Cesta, kam se má vygenerovaný kód uložit"
+  }
+}

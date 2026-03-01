@@ -1,0 +1,8 @@
+{
+  "name": "Project Manager (Orchestrator)",
+  "description": "Orchestrace celého procesu modernizace webu: analýza, návrh, kontrola a implementace.",
+  "parameters": {
+    "url": "Vstupní URL webové aplikace k modernizaci",
+    "requirements": "Specifické požadavky na výstup (např. mobilní první, PWA, SEO priority)"
+  }
+}

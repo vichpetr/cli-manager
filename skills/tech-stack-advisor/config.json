@@ -1,0 +1,9 @@
+{
+  "name": "Tech Stack Advisor 2026",
+  "description": "Navrhne optimální technologický stack pro moderní aplikace.",
+  "parameters": {
+    "app_description": "Popis aplikace a jejích hlavních funkcí",
+    "scale": "Očekávané zatížení (např. MVP, enterprise, globální sítě)",
+    "budget": "Rozpočtové omezení (low-cost/high-performance)"
+  }
+}

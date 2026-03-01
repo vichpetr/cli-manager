@@ -1,0 +1,9 @@
+{
+  "name": "UX & Accessibility Audit",
+  "description": "Analyzuje UI návrh nebo existující webovou aplikaci z pohledu přístupnosti (A11y) a moderních UX standardů.",
+  "parameters": {
+    "image_path": "Cesta k PNG/UI návrhu (volitelné, pokud zadáváte URL)",
+    "web_url": "URL existující webové aplikace k auditu (volitelné)",
+    "focus": "Specifická oblast zájmu (např. mobilní zobrazení, konverzní trychtýř, formuláře)"
+  }
+}
